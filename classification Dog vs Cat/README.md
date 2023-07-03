@@ -11,3 +11,5 @@ We train model in google cloab and we download data using Kaggle api , We use th
 1- Download Datasets using Kaggle api or from this page https://www.kaggle.com/datasets/arpitjain007/dog-vs-cat-fastai
 
 2- Prior knowledge of how CNN works 
+
+3- Run main.py in your colab
