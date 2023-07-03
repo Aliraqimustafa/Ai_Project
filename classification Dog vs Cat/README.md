@@ -13,3 +13,6 @@ We train model in google cloab and we download data using Kaggle api , We use th
 2- Prior knowledge of how CNN works 
 
 3- Run main.py in your colab
+
+## Codes
+
